@@ -62,6 +62,7 @@ One of the key aspects of ft_printf is its ability to handle variadic arguments.
 
 <h2> Installation and Usage </h2>
 <br/>
+
 To use ft_printf in your project, follow these steps:
 
 Clone the repository: 
@@ -70,7 +71,7 @@ Clone the repository:
 Navigate to the project directory: 
 
 						cd 42-ft_printf
-
+      
 Compile the ft_printf library: 
 
 						 make
